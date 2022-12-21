@@ -1,0 +1,146 @@
+{
+	"865350": {
+		"name": "IV.A",
+		"grade": "4",
+		"teacher": "50122",
+		"classroom": "69788"
+	},
+	"865352": {
+		"name": "IV.B",
+		"grade": "4",
+		"teacher": "850969",
+		"classroom": "42191"
+	},
+	"865353": {
+		"name": "IV.C",
+		"grade": "4",
+		"teacher": "379045",
+		"classroom": "42189"
+	},
+	"865354": {
+		"name": "IV.SA",
+		"grade": "4",
+		"teacher": "17177",
+		"classroom": "69791"
+	},
+	"865355": {
+		"name": "IV.SB",
+		"grade": "4",
+		"teacher": "850965",
+		"classroom": "42188"
+	},
+	"865356": {
+		"name": "IV.F",
+		"grade": "4",
+		"teacher": "17153",
+		"classroom": "69807"
+	},
+	"874272": {
+		"name": "III.A",
+		"grade": "3",
+		"teacher": "153071",
+		"classroom": "42192"
+	},
+	"874273": {
+		"name": "III.B",
+		"grade": "3",
+		"teacher": "617803",
+		"classroom": "69806"
+	},
+	"874275": {
+		"name": "III.C",
+		"grade": "3",
+		"teacher": "865326",
+		"classroom": "69787"
+	},
+	"874276": {
+		"name": "III.SA",
+		"grade": "3",
+		"teacher": "250009",
+		"classroom": "42187"
+	},
+	"874277": {
+		"name": "III.SB",
+		"grade": "3",
+		"teacher": "617796",
+		"classroom": "42190"
+	},
+	"874278": {
+		"name": "III.F",
+		"grade": "3",
+		"teacher": "48082",
+		"classroom": "69782"
+	},
+	"886612": {
+		"name": "II.A",
+		"grade": "2",
+		"teacher": "17127",
+		"classroom": "250295"
+	},
+	"886613": {
+		"name": "II.B",
+		"grade": "2",
+		"teacher": "17150",
+		"classroom": "69777"
+	},
+	"886614": {
+		"name": "II.C",
+		"grade": "2",
+		"teacher": "868469",
+		"classroom": "130578"
+	},
+	"886615": {
+		"name": "II.SA",
+		"grade": "2",
+		"teacher": "17122",
+		"classroom": "69779"
+	},
+	"886616": {
+		"name": "II.SB",
+		"grade": "2",
+		"teacher": "831698",
+		"classroom": "69781"
+	},
+	"886617": {
+		"name": "II.SC",
+		"grade": "2",
+		"teacher": "865329",
+		"classroom": "42180"
+	},
+	"896369": {
+		"name": "I.A",
+		"grade": "1",
+		"teacher": "875129",
+		"classroom": "42182"
+	},
+	"896370": {
+		"name": "I.B",
+		"grade": "1",
+		"teacher": "877089",
+		"classroom": "42183"
+	},
+	"896371": {
+		"name": "I.C",
+		"grade": "1",
+		"teacher": "250011",
+		"classroom": "42184"
+	},
+	"896372": {
+		"name": "I.SA",
+		"grade": "1",
+		"teacher": "38506",
+		"classroom": "69784"
+	},
+	"896373": {
+		"name": "I.SB",
+		"grade": "1",
+		"teacher": "45154",
+		"classroom": "69783"
+	},
+	"896374": {
+		"name": "I.SC",
+		"grade": "1",
+		"teacher": "831696",
+		"classroom": "69786"
+	}
+}

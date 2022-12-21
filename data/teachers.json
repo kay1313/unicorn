@@ -1,0 +1,362 @@
+{
+	"17120": {
+		"firstname": "Ľubomír",
+		"lastname": "Blichár",
+		"short": "BLR",
+		"cabinet": ""
+	},
+	"17122": {
+		"firstname": "Anna",
+		"lastname": "Budišová",
+		"short": "BUA",
+		"cabinet": ""
+	},
+	"17127": {
+		"firstname": "Anna",
+		"lastname": "Dlugošová",
+		"short": "DLU",
+		"cabinet": ""
+	},
+	"17130": {
+		"firstname": "Jozef",
+		"lastname": "Harangozo",
+		"short": "HAR",
+		"cabinet": ""
+	},
+	"17134": {
+		"firstname": "František",
+		"lastname": "Kollarčik",
+		"short": "KOL",
+		"cabinet": ""
+	},
+	"17137": {
+		"firstname": "Iveta",
+		"lastname": "Kovaľová",
+		"short": "KOV",
+		"cabinet": ""
+	},
+	"17140": {
+		"firstname": "Ljuba",
+		"lastname": "Krišová",
+		"short": "KRI",
+		"cabinet": ""
+	},
+	"17150": {
+		"firstname": "Gabriela",
+		"lastname": "Mitrová",
+		"short": "MIT",
+		"cabinet": ""
+	},
+	"17153": {
+		"firstname": "Vladimíra",
+		"lastname": "Pastirová",
+		"short": "PAA",
+		"cabinet": ""
+	},
+	"17160": {
+		"firstname": "Mária",
+		"lastname": "Šandrejová",
+		"short": "ŠAA",
+		"cabinet": ""
+	},
+	"17169": {
+		"firstname": "Anton",
+		"lastname": "Varga",
+		"short": "VAR",
+		"cabinet": ""
+	},
+	"17172": {
+		"firstname": "Martin",
+		"lastname": "Vujčík",
+		"short": "VUJ",
+		"cabinet": ""
+	},
+	"17177": {
+		"firstname": "Marta",
+		"lastname": "Kožárová",
+		"short": "KOA",
+		"cabinet": ""
+	},
+	"17178": {
+		"firstname": "Iveta",
+		"lastname": "Vinklerová",
+		"short": "VIN",
+		"cabinet": ""
+	},
+	"17189": {
+		"firstname": "Ján",
+		"lastname": "Seňava",
+		"short": "SEŇ",
+		"cabinet": ""
+	},
+	"38506": {
+		"firstname": "Štefan",
+		"lastname": "Dankovič",
+		"short": "DAN",
+		"cabinet": ""
+	},
+	"40171": {
+		"firstname": "Iveta",
+		"lastname": "Marcinčinová",
+		"short": "MAR",
+		"cabinet": ""
+	},
+	"45154": {
+		"firstname": "Miroslava",
+		"lastname": "Gajdošová",
+		"short": "GAJ",
+		"cabinet": ""
+	},
+	"45317": {
+		"firstname": "Peter",
+		"lastname": "Fritz",
+		"short": "FRI",
+		"cabinet": ""
+	},
+	"48082": {
+		"firstname": "Jana",
+		"lastname": "Pavlišáková",
+		"short": "PAV",
+		"cabinet": ""
+	},
+	"50122": {
+		"firstname": "Mária",
+		"lastname": "Solarová",
+		"short": "SOA",
+		"cabinet": ""
+	},
+	"130529": {
+		"firstname": "Michal",
+		"lastname": "Kuľbaga",
+		"short": "KUL",
+		"cabinet": ""
+	},
+	"153071": {
+		"firstname": "Lucia",
+		"lastname": "Liptáková",
+		"short": "LIP",
+		"cabinet": ""
+	},
+	"250009": {
+		"firstname": "Ján",
+		"lastname": "Vavrek",
+		"short": "VAV",
+		"cabinet": ""
+	},
+	"250011": {
+		"firstname": "Jozef",
+		"lastname": "Macej",
+		"short": "MAC",
+		"cabinet": ""
+	},
+	"379045": {
+		"firstname": "Martin",
+		"lastname": "Ambrozy",
+		"short": "AMB",
+		"cabinet": ""
+	},
+	"379923": {
+		"firstname": "Ján",
+		"lastname": "Bajúsz",
+		"short": "BAJ",
+		"cabinet": ""
+	},
+	"617793": {
+		"firstname": "Peter",
+		"lastname": "Gašparik",
+		"short": "GAŠ",
+		"cabinet": ""
+	},
+	"617796": {
+		"firstname": "Tibor",
+		"lastname": "Roland",
+		"short": "ROL",
+		"cabinet": ""
+	},
+	"617802": {
+		"firstname": "František",
+		"lastname": "Rusinko",
+		"short": "RUO",
+		"cabinet": ""
+	},
+	"617803": {
+		"firstname": "Tomáš",
+		"lastname": "Bosák",
+		"short": "BOS",
+		"cabinet": ""
+	},
+	"820928": {
+		"firstname": "Martin",
+		"lastname": "Broda",
+		"short": "BRO",
+		"cabinet": ""
+	},
+	"831696": {
+		"firstname": "Mária",
+		"lastname": "Hedvigová",
+		"short": "HED",
+		"cabinet": ""
+	},
+	"831697": {
+		"firstname": "Vladislav",
+		"lastname": "Bajus",
+		"short": "BAV",
+		"cabinet": ""
+	},
+	"831698": {
+		"firstname": "Ondrej",
+		"lastname": "Kontura",
+		"short": "KOR",
+		"cabinet": ""
+	},
+	"850965": {
+		"firstname": "Lukáš",
+		"lastname": "Zgola",
+		"short": "ZGO",
+		"cabinet": ""
+	},
+	"850969": {
+		"firstname": "Jana",
+		"lastname": "Kollárová",
+		"short": "KLR",
+		"cabinet": ""
+	},
+	"851139": {
+		"firstname": "Zdenka",
+		"lastname": "Liščinská",
+		"short": "LIA",
+		"cabinet": ""
+	},
+	"865326": {
+		"firstname": "Elena",
+		"lastname": "Kožlejová",
+		"short": "KZA",
+		"cabinet": ""
+	},
+	"865328": {
+		"firstname": "Martin",
+		"lastname": "Šechný",
+		"short": "ŠECH",
+		"cabinet": ""
+	},
+	"865329": {
+		"firstname": "Peter",
+		"lastname": "Vargovčík",
+		"short": "VRG",
+		"cabinet": ""
+	},
+	"868469": {
+		"firstname": "Viktor",
+		"lastname": "Mačák",
+		"short": "MAK",
+		"cabinet": ""
+	},
+	"875129": {
+		"firstname": "Patrik",
+		"lastname": "Jacko",
+		"short": "JAC",
+		"cabinet": ""
+	},
+	"875149": {
+		"firstname": "Mário",
+		"lastname": "Malinovský",
+		"short": "MAL",
+		"cabinet": ""
+	},
+	"875370": {
+		"firstname": "Viliam",
+		"lastname": "Nehila",
+		"short": "NEV",
+		"cabinet": ""
+	},
+	"875375": {
+		"firstname": "Martina",
+		"lastname": "Gogová",
+		"short": "GOG",
+		"cabinet": ""
+	},
+	"877089": {
+		"firstname": "Katarína",
+		"lastname": "Kopčák",
+		"short": "KOP",
+		"cabinet": ""
+	},
+	"878111": {
+		"firstname": "Lýdia",
+		"lastname": "Bujňáková Letkovská",
+		"short": "BUJ",
+		"cabinet": ""
+	},
+	"886650": {
+		"firstname": "Peter",
+		"lastname": "Kačur",
+		"short": "KAČ",
+		"cabinet": ""
+	},
+	"887041": {
+		"firstname": "Rastislav",
+		"lastname": "Kokoška",
+		"short": "KOŠ",
+		"cabinet": ""
+	},
+	"889373": {
+		"firstname": "Radovan",
+		"lastname": "Andrejko",
+		"short": "ANR",
+		"cabinet": ""
+	},
+	"896329": {
+		"firstname": "Jozef",
+		"lastname": "Gmitro",
+		"short": "GMI",
+		"cabinet": ""
+	},
+	"896330": {
+		"firstname": "Lucia",
+		"lastname": "Ligusová",
+		"short": "LIG",
+		"cabinet": ""
+	},
+	"896526": {
+		"firstname": "František",
+		"lastname": "Moyzes",
+		"short": "MOY",
+		"cabinet": ""
+	},
+	"896527": {
+		"firstname": "Daniel",
+		"lastname": "Galajda",
+		"short": "GAL",
+		"cabinet": ""
+	},
+	"896528": {
+		"firstname": "Christopher John",
+		"lastname": "Gleaves",
+		"short": "GLE",
+		"cabinet": ""
+	},
+	"896529": {
+		"firstname": "Ján",
+		"lastname": "Haluška",
+		"short": "HAL",
+		"cabinet": ""
+	},
+	"896530": {
+		"firstname": "Anna",
+		"lastname": "Chovancová",
+		"short": "CHO",
+		"cabinet": ""
+	},
+	"896637": {
+		"firstname": "Pavel",
+		"lastname": "Revák",
+		"short": "",
+		"cabinet": ""
+	},
+	"898171": {
+		"firstname": "Zuzana",
+		"lastname": "Stajančová",
+		"short": "",
+		"cabinet": ""
+	}
+}

@@ -1,0 +1,226 @@
+{
+	"42180": {
+		"name": "II.SC",
+		"schoolId": "202"
+	},
+	"42181": {
+		"name": "LROB",
+		"schoolId": "218"
+	},
+	"42182": {
+		"name": "I.A",
+		"schoolId": "012"
+	},
+	"42183": {
+		"name": "I.B",
+		"schoolId": "013"
+	},
+	"42184": {
+		"name": "I.C",
+		"schoolId": "015"
+	},
+	"42187": {
+		"name": "LIT 2",
+		"schoolId": "122/2"
+	},
+	"42188": {
+		"name": "OUD",
+		"schoolId": "210"
+	},
+	"42189": {
+		"name": "OUA",
+		"schoolId": "113"
+	},
+	"42190": {
+		"name": "OUB",
+		"schoolId": "115"
+	},
+	"42191": {
+		"name": "OUC",
+		"schoolId": "117"
+	},
+	"42192": {
+		"name": "OUE",
+		"schoolId": "212"
+	},
+	"44074": {
+		"name": "CZV (130)",
+		"schoolId": "CZV"
+	},
+	"69777": {
+		"name": "II.B",
+		"schoolId": "209"
+	},
+	"69779": {
+		"name": "II.SA",
+		"schoolId": "219"
+	},
+	"69781": {
+		"name": "II.SB",
+		"schoolId": "503"
+	},
+	"69782": {
+		"name": "III.F",
+		"schoolId": "501"
+	},
+	"69783": {
+		"name": "I.SB",
+		"schoolId": "201"
+	},
+	"69784": {
+		"name": "I.SA",
+		"schoolId": "016"
+	},
+	"69786": {
+		"name": "I.SC",
+		"schoolId": "602"
+	},
+	"69787": {
+		"name": "OUF",
+		"schoolId": "216"
+	},
+	"69788": {
+		"name": "OUG",
+		"schoolId": "203"
+	},
+	"69789": {
+		"name": "TEL",
+		"schoolId": "304"
+	},
+	"69790": {
+		"name": "POS 1",
+		"schoolId": "302"
+	},
+	"69791": {
+		"name": "LIT 1",
+		"schoolId": "122/1"
+	},
+	"69792": {
+		"name": "POS 2",
+		"schoolId": "402"
+	},
+	"69793": {
+		"name": "LSIE",
+		"schoolId": "403"
+	},
+	"69794": {
+		"name": "LIT 7",
+		"schoolId": "508"
+	},
+	"69795": {
+		"name": "LIT 6",
+		"schoolId": "509"
+	},
+	"69796": {
+		"name": "LIT 5",
+		"schoolId": "510"
+	},
+	"69797": {
+		"name": "LIT 4",
+		"schoolId": "511"
+	},
+	"69798": {
+		"name": "LELM 1",
+		"schoolId": "112"
+	},
+	"69799": {
+		"name": "LELM 2",
+		"schoolId": "124"
+	},
+	"69801": {
+		"name": "LAELE",
+		"schoolId": "014"
+	},
+	"69802": {
+		"name": "LRIS",
+		"schoolId": "299"
+	},
+	"69803": {
+		"name": "LELN",
+		"schoolId": "205"
+	},
+	"69804": {
+		"name": "LCUJ 1",
+		"schoolId": "603"
+	},
+	"69805": {
+		"name": "LCUJ 2",
+		"schoolId": "601"
+	},
+	"69806": {
+		"name": "LCUJ 3",
+		"schoolId": "608"
+	},
+	"69807": {
+		"name": "LCUJ 4",
+		"schoolId": "025"
+	},
+	"130578": {
+		"name": "II.C",
+		"schoolId": "220"
+	},
+	"250294": {
+		"name": "LIT 3",
+		"schoolId": "023"
+	},
+	"250295": {
+		"name": "II.A",
+		"schoolId": "208"
+	},
+	"618058": {
+		"name": "DPXA 1",
+		"schoolId": "002"
+	},
+	"618059": {
+		"name": "DPXA 2",
+		"schoolId": "003"
+	},
+	"618060": {
+		"name": "DPXA 3",
+		"schoolId": "008"
+	},
+	"618061": {
+		"name": "LIT 9",
+		"schoolId": "006"
+	},
+	"618062": {
+		"name": "LIT 10",
+		"schoolId": "007"
+	},
+	"618063": {
+		"name": "LIT 8",
+		"schoolId": "004"
+	},
+	"887038": {
+		"name": "LIOT",
+		"schoolId": "127"
+	},
+	"887039": {
+		"name": "LSIE2",
+		"schoolId": "126"
+	},
+	"896629": {
+		"name": "Chodba prízemie A",
+		"schoolId": "CH0A"
+	},
+	"896630": {
+		"name": "Chodba prízemie B",
+		"schoolId": "CH0B"
+	},
+	"896631": {
+		"name": "Chodba 1. poschodie",
+		"schoolId": "CH1A"
+	},
+	"896632": {
+		"name": "Chodba 2. poschodie",
+		"schoolId": "CH2A"
+	},
+	"896633": {
+		"name": "Chodba budova 2",
+		"schoolId": "CHB2"
+	},
+	"896634": {
+		"name": "Prechod B1-B2",
+		"schoolId": "PRE"
+	}
+}

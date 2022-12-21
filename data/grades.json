@@ -1,0 +1,166 @@
+{
+	"34150": [
+		{
+			"value": 1,
+			"weight": 0.75
+		},
+		{
+			"value": 3,
+			"weight": 1.75
+		},
+		{
+			"value": 1,
+			"weight": 0.75
+		},
+		{
+			"value": 1,
+			"weight": 1.75
+		},
+		{
+			"value": 1,
+			"weight": 0.75
+		}
+	],
+	"34708": [
+		{
+			"value": 1,
+			"weight": 1.5
+		},
+		{
+			"value": 1,
+			"weight": 3.5
+		}
+	],
+	"34718": [
+		{
+			"value": 2,
+			"weight": 2
+		},
+		{
+			"value": 2,
+			"weight": 0.5
+		},
+		{
+			"value": 1,
+			"weight": 2
+		},
+		{
+			"value": 2,
+			"weight": 0.5
+		},
+		{
+			"value": 2,
+			"weight": 2
+		},
+		{
+			"value": 5,
+			"weight": 0.5
+		},
+		{
+			"value": 1,
+			"weight": 0.5
+		}
+	],
+	"34735": [
+		{
+			"value": 1,
+			"weight": 0.5
+		},
+		{
+			"value": 2,
+			"weight": 0.5
+		},
+		{
+			"value": 1,
+			"weight": 0.5
+		}
+	],
+	"34780": [
+		{
+			"value": 1,
+			"weight": 2
+		},
+		{
+			"value": 2,
+			"weight": 2
+		},
+		{
+			"value": 1,
+			"weight": 2
+		}
+	],
+	"46658": [
+		{
+			"value": 1,
+			"weight": 2.5
+		},
+		{
+			"value": 2,
+			"weight": 2.5
+		}
+	],
+	"46660": [
+		{
+			"value": 1,
+			"weight": 1
+		},
+		{
+			"value": 1,
+			"weight": 1
+		},
+		{
+			"value": 1,
+			"weight": 1
+		}
+	],
+	"48084": [
+		{
+			"value": 1,
+			"weight": 2
+		},
+		{
+			"value": 1,
+			"weight": 1
+		},
+		{
+			"value": 2,
+			"weight": 1
+		},
+		{
+			"value": 1,
+			"weight": 2
+		}
+	],
+	"842273": [
+		{
+			"value": 1,
+			"weight": 1
+		},
+		{
+			"value": 1,
+			"weight": 0.25
+		}
+	],
+	"842285": [
+		{
+			"value": 1,
+			"weight": 2
+		}
+	],
+	"851376": [
+		{
+			"value": 1,
+			"weight": 0.5
+		},
+		{
+			"value": 1,
+			"weight": 2
+		}
+	],
+	"875390": [
+		{
+			"value": 1,
+			"weight": 1
+		}
+	]
+}

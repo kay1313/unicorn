@@ -1,0 +1,306 @@
+{
+	"1": {
+		"name": "Správanie",
+		"short": "SPR"
+	},
+	"6": {
+		"name": "Krúžok",
+		"short": "Krúžok"
+	},
+	"34150": {
+		"name": "matematika",
+		"short": "MAT"
+	},
+	"34151": {
+		"name": "teoretická časť odbornej zložky",
+		"short": "TČOZ"
+	},
+	"34152": {
+		"name": "praktická časť odbornej zložky",
+		"short": "PČOZ"
+	},
+	"34704": {
+		"name": "dejepis",
+		"short": "DEJ"
+	},
+	"34705": {
+		"name": "fyzika",
+		"short": "FYZ"
+	},
+	"34706": {
+		"name": "chémia",
+		"short": "CHE"
+	},
+	"34708": {
+		"name": "telesná a športová výchova",
+		"short": "TSV"
+	},
+	"34710": {
+		"name": "elektrotechnika",
+		"short": "ELK"
+	},
+	"34712": {
+		"name": "prax",
+		"short": "PXA"
+	},
+	"34714": {
+		"name": "etická výchova",
+		"short": "ETV"
+	},
+	"34715": {
+		"name": "náboženská výchova",
+		"short": "NBV"
+	},
+	"34716": {
+		"name": "občianska náuka",
+		"short": "OBN"
+	},
+	"34718": {
+		"name": "ekonomika",
+		"short": "EKO"
+	},
+	"34719": {
+		"name": "administratíva a korešpondencia",
+		"short": "ADK"
+	},
+	"34720": {
+		"name": "technické kreslenie",
+		"short": "TCK"
+	},
+	"34723": {
+		"name": "elektronika",
+		"short": "ELE"
+	},
+	"34727": {
+		"name": "elektrotechnické meranie",
+		"short": "ELM"
+	},
+	"34730": {
+		"name": "elektroenergetika",
+		"short": "EEN"
+	},
+	"34731": {
+		"name": "elektrické stroje a prístroje",
+		"short": "ESP"
+	},
+	"34735": {
+		"name": "sieťové technológie",
+		"short": "SIE"
+	},
+	"34736": {
+		"name": "účtovníctvo",
+		"short": "UCT"
+	},
+	"34737": {
+		"name": "cudzojazyčná korešpondencia",
+		"short": "CUK"
+	},
+	"34738": {
+		"name": "elektrické zariadenia",
+		"short": "EZR"
+	},
+	"34739": {
+		"name": "grafické systémy",
+		"short": "GRS"
+	},
+	"34743": {
+		"name": "priemyselná informatika",
+		"short": "PIT"
+	},
+	"34744": {
+		"name": "počítačové systémy",
+		"short": "POS"
+	},
+	"34746": {
+		"name": "manažérstvo",
+		"short": "MAN"
+	},
+	"34780": {
+		"name": "slovenský jazyk a literatúra",
+		"short": "SJL"
+	},
+	"37530": {
+		"name": "aplikovaná informatika",
+		"short": "API"
+	},
+	"46585": {
+		"name": "riadiace systémy",
+		"short": "RIS"
+	},
+	"46654": {
+		"name": "PC architektúra",
+		"short": "PAY"
+	},
+	"46655": {
+		"name": "programovanie",
+		"short": "PRO"
+	},
+	"46656": {
+		"name": "operačné systémy",
+		"short": "OSY"
+	},
+	"46658": {
+		"name": "serverové technológie",
+		"short": "SXT"
+	},
+	"46659": {
+		"name": "databázové aplikácie",
+		"short": "DAA"
+	},
+	"46660": {
+		"name": "ročníkový projekt",
+		"short": "RPJ"
+	},
+	"48084": {
+		"name": "anglický jazyk",
+		"short": "ANJ"
+	},
+	"48087": {
+		"name": "nemecký jazyk",
+		"short": "NEJ"
+	},
+	"48088": {
+		"name": "ruský jazyk",
+		"short": "RUJ"
+	},
+	"48089": {
+		"name": "telesná výchova - dievčatá",
+		"short": "TVD"
+	},
+	"48093": {
+		"name": "triednická hodina",
+		"short": "TRF"
+	},
+	"820931": {
+		"name": "robotika",
+		"short": "ROB"
+	},
+	"820932": {
+		"name": "tvorba web stránok",
+		"short": "TWS"
+	},
+	"820933": {
+		"name": "aplikovaná elektronika",
+		"short": "AEN"
+	},
+	"833504": {
+		"name": "databázové systémy",
+		"short": "DSY"
+	},
+	"842267": {
+		"name": "aplikácia internetu všetkého",
+		"short": "AIV"
+	},
+	"842269": {
+		"name": "ECDL (European Computer Driving Licence)",
+		"short": "ECD"
+	},
+	"842270": {
+		"name": "embedované systémy",
+		"short": "EMS"
+	},
+	"842272": {
+		"name": "internet vecí",
+		"short": "IOT"
+	},
+	"842273": {
+		"name": "objektové programovanie",
+		"short": "OPG"
+	},
+	"842274": {
+		"name": "PLC programovanie",
+		"short": "PLC"
+	},
+	"842275": {
+		"name": "podniková korešpondencia",
+		"short": "PKR"
+	},
+	"842276": {
+		"name": "počítačové siete",
+		"short": "PCI"
+	},
+	"842277": {
+		"name": "programovanie a algoritmy",
+		"short": "PAA"
+	},
+	"842278": {
+		"name": "programovanie a spracovanie dát",
+		"short": "PWD"
+	},
+	"842279": {
+		"name": "tvorba a správa www stránky",
+		"short": "TSW"
+	},
+	"842280": {
+		"name": "základy automatizácie",
+		"short": "ZAT"
+	},
+	"842281": {
+		"name": "základy IT",
+		"short": "ZIT"
+	},
+	"842285": {
+		"name": "projektový manažment",
+		"short": "PJF"
+	},
+	"851375": {
+		"name": "aplikovaná elektrotechnika",
+		"short": "AET"
+	},
+	"851376": {
+		"name": "kybernetická bezpečnosť",
+		"short": "KYB"
+	},
+	"851377": {
+		"name": "obchodné právo",
+		"short": "OBP"
+	},
+	"851378": {
+		"name": "otvorený marketing",
+		"short": "OTM"
+	},
+	"851379": {
+		"name": "programovanie mobilných aplikácií",
+		"short": "PMA"
+	},
+	"865802": {
+		"name": "náboženská výchova-evanj.",
+		"short": "NBE"
+	},
+	"875390": {
+		"name": "technická grafika",
+		"short": "TEG"
+	},
+	"875391": {
+		"name": "základy IT a praxe",
+		"short": "ZIP"
+	},
+	"875392": {
+		"name": "elektrotechnická spôsobilosť",
+		"short": "ELS"
+	},
+	"875393": {
+		"name": "základy elektrotechniky",
+		"short": "ZAE"
+	},
+	"887037": {
+		"name": "ICDL",
+		"short": "ICD"
+	},
+	"889535": {
+		"name": "základy IT2",
+		"short": "ZIT"
+	},
+	"896640": {
+		"name": "náboženská výchova - rim",
+		"short": "NBR"
+	},
+	"896641": {
+		"name": "náboženská výchova - grek",
+		"short": "NBG"
+	},
+	"896789": {
+		"name": "siete a bezpečnosť",
+		"short": "SIB"
+	}
+}
